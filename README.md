@@ -1,5 +1,7 @@
 # MT Logistics Automation — Delhivery & Safe Express Integration
 
+📄 **Detailed Design & PRD:**   : https://docs.google.com/document/d/150RSD6H4voUCT1J2aG1oHMoekKn2Xz82wr4Hz8nzDwQ/edit?usp=sharing
+
 ## Problem Statement
 
 After every MT shipment booking, the team manually logs into Delhivery or Safe Express, copies LR number, freight cost, dispatch date, appointment date, and other fields, then re-enters them into the internal portal. This process is error-prone, delayed, and unscalable as MT shipment volumes grow — causing data lag across Logistics, Operations, and Finance.
